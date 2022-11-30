@@ -9,7 +9,7 @@
 
 ## Page Links
 
-- [HOME](https://swagata-codearts.github.io/prometheus-dr-malik-2/index.html)
+- [HOME](https://deep1407.github.io/prometheus-dr-malik/index.html)
 - [ABOUT US](https://swagata-codearts.github.io/prometheus-dr-malik-2/about-us.html)
 - [SERVICE](https://swagata-codearts.github.io/prometheus-dr-malik-2/service.html)
 - [SERVICE INNER](https://swagata-codearts.github.io/prometheus-dr-malik-2/service-inner.html)
