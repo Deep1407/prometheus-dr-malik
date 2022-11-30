@@ -10,10 +10,10 @@
 ## Page Links
 
 - [HOME](https://deep1407.github.io/prometheus-dr-malik/index.html)
-- [ABOUT US](https://swagata-codearts.github.io/prometheus-dr-malik-2/about-us.html)
-- [SERVICE](https://swagata-codearts.github.io/prometheus-dr-malik-2/service.html)
-- [SERVICE INNER](https://swagata-codearts.github.io/prometheus-dr-malik-2/service-inner.html)
-- [BEFORE AFTER IMAGES](https://swagata-codearts.github.io/prometheus-dr-malik-2/before-after-images.html)
-- [TESTIMONIAL](https://swagata-codearts.github.io/prometheus-dr-malik-2/testimonial.html)
-- [CONTACT US](https://swagata-codearts.github.io/prometheus-dr-malik-2/contact-us.html)
-- [THANK YOU](https://swagata-codearts.github.io/prometheus-dr-malik-2/thank-you.html)
+- [ABOUT US](https://deep1407.github.io/prometheus-dr-malik/about-us.html)
+- [SERVICE](https://deep1407.github.io/prometheus-dr-malik/service.html)
+- [SERVICE INNER](https://deep1407.github.io/prometheus-dr-malik/service-inner.html)
+- [BEFORE AFTER IMAGES](https://deep1407.github.io/prometheus-dr-malik/before-after-images.html)
+- [TESTIMONIAL](https://deep1407.github.io/prometheus-dr-malik/testimonial.html)
+- [CONTACT US](https://deep1407.github.io/prometheus-dr-malik/contact-us.html)
+- [THANK YOU](https://deep1407.github.io/prometheus-dr-malik/thank-you.html)
